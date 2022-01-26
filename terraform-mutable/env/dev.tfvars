@@ -1,4 +1,4 @@
 INSTANCE_COUNT = 1
-INSTANCE_TYPE  = "t3.micro"
+INSTANCE_TYPE  = "t3.small"
 COMPONENT      = "user"
 ENV            = "dev"
